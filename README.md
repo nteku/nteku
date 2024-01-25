@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A full stack software engineer based in Seattle, Washington</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+ <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/61970444/183136663-cefea923-c10c-4738-b496-bc72a1bbe05a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nteku&label=Profile%20views&color=0e75b6&style=flat" alt="nteku" /> </p>
 
 <h3 align="left">Connect with me:</h3>
